@@ -9,14 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@qodalis/cli": "^2.0.0-beta.5",
+    "@qodalis/cli-core": "^2.0.0-beta.5",
+    "@qodalis/cli-files": "^2.0.0-beta.5",
+    "@qodalis/cli-guid": "^2.0.0-beta.5",
+    "@qodalis/cli-users": "^2.0.0-beta.5",
+    "@qodalis/react-cli": "^2.0.0-beta.5",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "@qodalis/cli": "^2.0.0-beta.4",
-    "@qodalis/cli-core": "^2.0.0-beta.4",
-    "@qodalis/react-cli": "^2.0.0-beta.4",
-    "@qodalis/cli-guid": "^2.0.0-beta.4",
-    "@qodalis/cli-files": "^2.0.0-beta.4",
-    "@qodalis/cli-users": "^2.0.0-beta.4"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/react": "^19.0.0",
