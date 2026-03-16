@@ -2,7 +2,11 @@
 
 Minimal React example using [`@qodalis/react-cli`](https://www.npmjs.com/package/@qodalis/react-cli).
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/qodalis-solutions/stackblitz-qodalis-cli-react-example)
+## Try It Online
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/qodalis-solutions/qodalis-cli-react-example)
+[![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/qodalis-solutions/qodalis-cli-react-example)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/qodalis-solutions/qodalis-cli-react-example)
 
 ## Quick Start
 
