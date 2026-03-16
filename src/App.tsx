@@ -1,4 +1,5 @@
-import { Cli, CliConfigProvider } from '@qodalis/react-cli';
+import { Cli, CliConfigProvider, CliPanel } from '@qodalis/react-cli';
+import '@qodalis/cli/assets/cli-panel.css';
 import { guidModule } from '@qodalis/cli-guid';
 import { filesModule } from '@qodalis/cli-files';
 import { usersModule } from '@qodalis/cli-users';
@@ -26,6 +27,7 @@ function App() {
                     <Cli />
                 </div>
             </div>
+            <CliPanel />
         </CliConfigProvider>
     );
 }
